@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"wsb.project"},{"l":"wsb.project.controllers"},{"l":"wsb.project.helpers"},{"l":"wsb.project.models"},{"l":"wsb.project.views"}];updateSearchResults();
